@@ -121,8 +121,23 @@ FROM
 
 ->2618
 
-<img width="832" height="578" alt="Image" src="https://github.com/user-attachments/assets/46fde49a-a404-4c12-8d8a-7bbe451b9d9d" />
+<img width="1075" height="315" alt="Image" src="https://github.com/user-attachments/assets/c756901f-f3fd-4423-ab78-8af9de8df406" />
 <img width="815" height="34" alt="Image" src="https://github.com/user-attachments/assets/691cb9f3-b92a-440b-91b1-d98a3da823be" />
+
+```sql
+SELECT
+		A.name,
+		providers.name,
+		categories.name
+FROM
+		products AS A 
+INNER JOIN
+		providers ON A.id_providers = providers.id
+INNER JOIN
+		categories ON A.id_categories = categories.id
+WHERE 
+		providers.name= 'Sansul SA' AND categories.name = 'Imported';
+```
 
 NÍVEL 4
 
