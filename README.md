@@ -1,6 +1,8 @@
 # Atividades-de-SQL-BEECROWD
 ## NÍVEL 1
 
+
+
 ->2603
 
 <img width="1049" height="312" alt="Image" src="https://github.com/user-attachments/assets/2b0ccda3-d9bf-496c-b797-76fffd436a19" />
@@ -16,6 +18,8 @@ FROM
 WHERE
 	city LIKE '%Porto Alegre%';
 ```
+
+
 
 ->2607
 
@@ -33,6 +37,8 @@ ORDER BY
 ASC;
 ```
 
+
+
 ->2608
 
 <img width="1074" height="429" alt="Image" src="https://github.com/user-attachments/assets/0403156c-8a78-48d5-8c21-2420bf8fcf08" />
@@ -47,6 +53,8 @@ FROM
 		products;
 ```
 
+
+
 ->2615
 
 <img width="1074" height="318" alt="Image" src="https://github.com/user-attachments/assets/0e34e404-3df9-4bca-a062-5fe018647f2e" />
@@ -59,6 +67,8 @@ SELECT
 FROM
 		customers;
 ```
+
+
 
 ->2617
 
@@ -77,7 +87,11 @@ WHERE
 		B.name = 'Ajax SA';
 ```
 
+
+
 ## NÍVEL 2
+
+
 
 ->2604
 
@@ -94,6 +108,8 @@ FROM
 WHERE
 		price<10 OR price>100;
 ```
+
+
 
 ->2613
 
@@ -112,7 +128,11 @@ INNER JOIN
 WHERE value<2;
 ```
 
+
+
 ## NÍVEL 3 
+
+
 
 ->2610
 
@@ -126,6 +146,8 @@ SELECT
 FROM
 		products;
 ```
+
+
 
 ->2618
 
@@ -148,7 +170,11 @@ WHERE
 		providers.name= 'Sansul SA' AND categories.name = 'Imported';
 ```
 
+
+
 ## NÍVEL 4
+
+
 
 ->2602
 
@@ -165,7 +191,11 @@ WHERE
 		state LIKE '%RS%';
 ```
 
+
+
 ## NÍVEL 5
+
+
 
 ->2616
 
