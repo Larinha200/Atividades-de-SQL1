@@ -58,8 +58,19 @@ FROM
 
 ->2617
 
-<img width="1209" height="699" alt="Image" src="https://github.com/user-attachments/assets/1d91a41d-9e99-48f4-b278-2deb6db58ff1" />
+<img width="957" height="279" alt="Image" src="https://github.com/user-attachments/assets/92a27786-1864-4dda-9529-cb7aa552749d" />
 <img width="1081" height="42" alt="Image" src="https://github.com/user-attachments/assets/170200e3-9a1e-473d-a6db-0979639d251c" />
+
+```sql
+SELECT
+		A.name,B.name
+FROM 
+		products AS A
+INNER JOIN 
+		providers AS B ON A.id_providers = B.id
+WHERE 
+		B.name = 'Ajax SA';
+```
 
 NÍVEL 2
 
