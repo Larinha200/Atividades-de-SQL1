@@ -46,8 +46,15 @@ FROM
 
 ->2615
 
-<img width="1095" height="520" alt="Image" src="https://github.com/user-attachments/assets/5566d421-61a1-47f6-a698-0cfbfbdf772f" />
+<img width="1074" height="318" alt="Image" src="https://github.com/user-attachments/assets/0e34e404-3df9-4bca-a062-5fe018647f2e" />
 <img width="1072" height="42" alt="Image" src="https://github.com/user-attachments/assets/2dcbcb3f-44f1-4966-ac9e-05e50ec57085" />
+
+```sql
+SELECT
+		city
+FROM
+		customers;
+```
 
 ->2617
 
