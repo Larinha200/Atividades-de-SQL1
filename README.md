@@ -31,3 +31,7 @@ NÍVEL 2
 ->2604
 
 <img width="1116" height="507" alt="Image" src="https://github.com/user-attachments/assets/ad1aee73-b391-4d04-be40-1199c2b480fd" />
+<img width="1089" height="43" alt="Image" src="https://github.com/user-attachments/assets/6d2891ec-7a39-4e7d-8aed-0884f5ff1172" />
+
+->2613
+
