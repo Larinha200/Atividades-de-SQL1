@@ -53,3 +53,5 @@ NÍVEL 3
 NÍVEL 4
 
 ->2602
+
+<img width="848" height="444" alt="Image" src="https://github.com/user-attachments/assets/3e1376e4-ca8f-47c7-9c63-6f2116434471" />
