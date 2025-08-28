@@ -143,8 +143,17 @@ NÍVEL 4
 
 ->2602
 
-<img width="848" height="444" alt="Image" src="https://github.com/user-attachments/assets/3e1376e4-ca8f-47c7-9c63-6f2116434471" />
+<img width="1044" height="307" alt="Image" src="https://github.com/user-attachments/assets/4fad7ee9-8f4e-421a-a913-3cc995f1fdec" />
 <img width="818" height="28" alt="Image" src="https://github.com/user-attachments/assets/f70300bb-208e-4539-9606-475adae5332a" />
+
+```sql
+SELECT
+		name
+FROM
+		customers
+WHERE
+		state LIKE '%RS%';
+```
 
 NÍVEL 5
 
