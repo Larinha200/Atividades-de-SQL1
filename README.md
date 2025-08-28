@@ -62,3 +62,4 @@ NÍVEL 5
 ->2616
 
 <img width="858" height="488" alt="Image" src="https://github.com/user-attachments/assets/7231d7d0-33eb-4e71-b2e6-1d0379380978" />
+<img width="814" height="30" alt="Image" src="https://github.com/user-attachments/assets/3d2ff834-e55a-4294-a109-2157e0a659fa" />
