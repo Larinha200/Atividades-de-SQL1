@@ -91,8 +91,19 @@ WHERE
 
 ->2613
 
-<img width="855" height="420" alt="Image" src="https://github.com/user-attachments/assets/425f6705-437c-4d40-80e9-5e5a3ae03809" />
+<img width="1022" height="300" alt="Image" src="https://github.com/user-attachments/assets/41a6770b-f905-4dc1-bb29-b04f667245a4" />
 <img width="810" height="37" alt="Image" src="https://github.com/user-attachments/assets/a10cfc6d-dc87-49a0-b653-9205ce734b29" />
+
+```sql
+SELECT
+		movies.id, 
+		movies.name
+FROM
+		movies
+INNER JOIN 
+		prices ON movies.id_prices = prices.id
+WHERE value<2;
+```
 
 NÍVEL 3 
 
