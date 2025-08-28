@@ -159,5 +159,17 @@ NÍVEL 5
 
 ->2616
 
-<img width="858" height="488" alt="Image" src="https://github.com/user-attachments/assets/7231d7d0-33eb-4e71-b2e6-1d0379380978" />
+<img width="1025" height="305" alt="Image" src="https://github.com/user-attachments/assets/48a9250f-da7f-44f6-9390-9d33fe850585" />
 <img width="814" height="30" alt="Image" src="https://github.com/user-attachments/assets/3d2ff834-e55a-4294-a109-2157e0a659fa" />
+
+```sql
+SELECT 
+		customers.id,
+		customers.name
+FROM
+		customers
+LEFT JOIN
+		locations ON customers.id = locations.id_customers
+WHERE
+		locations.id_customers IS NULL
+```
