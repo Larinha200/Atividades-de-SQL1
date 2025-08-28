@@ -29,3 +29,5 @@ NÍVEL 1
 NÍVEL 2
 
 ->2604
+
+<img width="1116" height="507" alt="Image" src="https://github.com/user-attachments/assets/ad1aee73-b391-4d04-be40-1199c2b480fd" />
