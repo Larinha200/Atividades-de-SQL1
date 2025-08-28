@@ -3,9 +3,18 @@ NÍVEL 1
 
 ->2603
 
-<img width="1116" height="614" alt="Image" src="https://github.com/user-attachments/assets/fcb22b34-3479-4812-ae1d-7fb001e2070f" />
+<img width="1049" height="312" alt="Image" src="https://github.com/user-attachments/assets/2b0ccda3-d9bf-496c-b797-76fffd436a19" />
 <img width="1078" height="52" alt="Image" src="https://github.com/user-attachments/assets/e9176d3a-a974-4013-b551-1817ec45a910" />
 
+```sql
+SELECT 
+	name,
+	street
+FROM 
+	customers
+WHERE
+	city LIKE '%Porto Alegre%';
+```
 
 ->2607
 
