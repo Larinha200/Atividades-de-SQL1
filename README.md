@@ -33,8 +33,16 @@ ASC;
 
 ->2608
 
-<img width="796" height="574" alt="Image" src="https://github.com/user-attachments/assets/0de32d69-7da2-47b2-8cdf-de6a2ec4f55b" />
+<img width="1074" height="429" alt="Image" src="https://github.com/user-attachments/assets/0403156c-8a78-48d5-8c21-2420bf8fcf08" />
 <img width="1069" height="31" alt="Image" src="https://github.com/user-attachments/assets/144aac27-8b82-4b7f-922f-191fae814cd5" />
+
+```sql
+SELECT
+		MAX(price),
+		MIN(price)
+FROM
+		products;
+```
 
 ->2615
 
