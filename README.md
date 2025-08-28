@@ -18,8 +18,18 @@ WHERE
 
 ->2607
 
-<img width="1083" height="587" alt="Image" src="https://github.com/user-attachments/assets/80d9ceee-a77a-446b-9208-27c0c4e0c1f4" />
+<img width="1050" height="316" alt="Image" src="https://github.com/user-attachments/assets/891c01a5-4af1-4d96-a3d7-d833bb4e1640" />
 <img width="1079" height="43" alt="Image" src="https://github.com/user-attachments/assets/1d00e8d4-8f8e-4c47-a05c-5f5b864bba29" />
+
+```sql
+SELECT 
+		city
+FROM
+		providers
+ORDER BY
+		city
+ASC;
+```
 
 ->2608
 
