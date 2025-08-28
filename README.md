@@ -109,8 +109,15 @@ NÍVEL 3
 
 ->2610
 
-<img width="833" height="409" alt="Image" src="https://github.com/user-attachments/assets/af0c9f3c-d667-4812-a7ef-ad2fdcabd4fa" />
+<img width="1070" height="318" alt="Image" src="https://github.com/user-attachments/assets/ef7141d4-e43e-46ec-97d8-e1e6f0b47a8b" />
 <img width="788" height="25" alt="Image" src="https://github.com/user-attachments/assets/c1c74c44-cbe4-4bf7-a737-1dcf667fdb80" />
+
+```sql
+SELECT
+		ROUND(AVG(price),2) AS Media
+FROM
+		products;
+```
 
 ->2618
 
